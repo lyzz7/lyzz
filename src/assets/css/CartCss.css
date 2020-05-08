@@ -1,0 +1,30 @@
+#Cart{
+    padding-top:100px;
+    padding-bottom:50px;
+    background-color: rgb(255, 245, 108);
+}
+
+#id{
+    background-color: rgb(255, 245, 108);
+}
+.gl{
+    font-size: 14px;
+}
+
+.g{
+    font-size: 12px;
+}
+.bottom{
+    width: 100%;
+    height: 40px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 50px;
+    background-color:brown ;
+}
+
+.aniu{
+position: absolute;
+bottom: 50px;
+}
